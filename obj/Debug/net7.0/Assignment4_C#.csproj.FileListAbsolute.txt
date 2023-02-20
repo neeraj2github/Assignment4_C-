@@ -1,0 +1,15 @@
+C:\Users\20193\promact\Assignment4_C#\obj\Debug\net7.0\Assignment4_C#.csproj.AssemblyReference.cache
+C:\Users\20193\promact\Assignment4_C#\obj\Debug\net7.0\Assignment4_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20193\promact\Assignment4_C#\obj\Debug\net7.0\Assignment4_C#.AssemblyInfoInputs.cache
+C:\Users\20193\promact\Assignment4_C#\obj\Debug\net7.0\Assignment4_C#.AssemblyInfo.cs
+C:\Users\20193\promact\Assignment4_C#\obj\Debug\net7.0\Assignment4_C#.csproj.CoreCompileInputs.cache
+C:\Users\20193\promact\Assignment4_C#\bin\Debug\net7.0\Assignment4_C#.exe
+C:\Users\20193\promact\Assignment4_C#\bin\Debug\net7.0\Assignment4_C#.deps.json
+C:\Users\20193\promact\Assignment4_C#\bin\Debug\net7.0\Assignment4_C#.runtimeconfig.json
+C:\Users\20193\promact\Assignment4_C#\bin\Debug\net7.0\Assignment4_C#.dll
+C:\Users\20193\promact\Assignment4_C#\bin\Debug\net7.0\Assignment4_C#.pdb
+C:\Users\20193\promact\Assignment4_C#\obj\Debug\net7.0\Assignment4_C#.dll
+C:\Users\20193\promact\Assignment4_C#\obj\Debug\net7.0\refint\Assignment4_C#.dll
+C:\Users\20193\promact\Assignment4_C#\obj\Debug\net7.0\Assignment4_C#.pdb
+C:\Users\20193\promact\Assignment4_C#\obj\Debug\net7.0\Assignment4_C#.genruntimeconfig.cache
+C:\Users\20193\promact\Assignment4_C#\obj\Debug\net7.0\ref\Assignment4_C#.dll
